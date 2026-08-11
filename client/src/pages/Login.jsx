@@ -4,8 +4,8 @@ import { useAuth } from "../context/AuthContext";
 import { useNavigate, Link } from "react-router-dom";
 import { Eye, EyeOff, Mail, Lock, ArrowRight, ShieldCheck } from "lucide-react";
 
-import vector1 from "../assets/vector1.png";
-import vector2 from "../assets/vector2.png";
+import vector1 from "../assets/Vector1.png";
+import vector2 from "../assets/Vector2.png";
 
 export default function Login() {
   const {

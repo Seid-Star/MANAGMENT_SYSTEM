@@ -14,8 +14,8 @@ import {
   X,
   Menu,
 } from "lucide-react";
-import vector1 from "../assets/vector1.png";
-import vector2 from "../assets/vector2.png";
+import vector1 from "../assets/Vector1.png";
+import vector2 from "../assets/Vector2.png";
 
 export default function MainLayout() {
   const { user, logout } = useAuth();
